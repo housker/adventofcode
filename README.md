@@ -22,3 +22,4 @@ sys.path.append(str(parent_dir))
 
 ## Resources
 [Advent of Code's website](https://adventofcode.com/)
+[Stripping Jupyter notebooks of output prior to committing](https://gist.github.com/33eyes/431e3d432f73371509d176d0dfb95b6e)
